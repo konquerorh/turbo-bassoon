@@ -30,6 +30,10 @@
   1. Decision tree
   1. Naive Bayes
 ### Unsupervised learning
+```Python
+if a == b: 
+  print(a)
+```
 
 ### Reinforced learning
 
