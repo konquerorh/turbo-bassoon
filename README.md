@@ -21,16 +21,15 @@
    * You know how to classify the input data and the type of behavior you want to predict, but you need the algorithm to caculate it for you on new data. 
 * how it works
       1. A human labels the input data and fefine the output variable. 
-      2. The algorithm is  trained on the data to find the connection between input and output.
-      3. Once training is complete - typically when the algorithm is sufficiently accurate - the algorigthm is applied on new data. 
+      1. The algorithm is  trained on the data to find the connection between input and output.
+      1. Once training is complete - typically when the algorithm is sufficiently accurate - the algorigthm is applied on new data. 
 * Algorigthms / business cases
       1. Linear regression
-      2. Logistic regression
-      3. Linear/quadratic discriminant analysys (Upgrade a logistic regression to deal with non-linear problems, where the change to the input variables do not result in propotional change to the outpu variables.  
-      4. Decision tree
-      5. Naive Bayes
+      1. Logistic regression
+      1. Linear/quadratic discriminant analysys (Upgrade a logistic regression to deal with non-linear problems, where the change to the input variables do not result in propotional change to the outpu variables.  
+      1. Decision tree
+      1. Naive Bayes
 ### Unsupervised learning
-> Coffee. The finest organic suspension ever devised... I beat the Borg with it.
-> - Captain Janeway
+
 ### Reinforced learning
 
