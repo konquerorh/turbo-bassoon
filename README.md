@@ -37,3 +37,13 @@ if a == b:
 
 ### Reinforced learning
 
+## Features of AI
+1. Automates
+1. Personalizes
+  Sample: recomendation
+  1. Behaviours 
+  1. Tags
+1. Optimises
+1. Detects anomalies
+1. Forecasts
+1. Innovates
