@@ -14,6 +14,8 @@
 
 * [CBINSIGHTS - AI Redefine Industries](https://www.cbinsights.com/research/artificial-intelligence-top-startups/)
 
+* [Harvard - How AI redefine management](https://hbr.org/2016/11/how-artificial-intelligence-will-redefine-management)
+
 # Machine Learning
 ## Machine Learning Major Types
 ### Supervised learning
