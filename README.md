@@ -12,6 +12,8 @@
 
 * [NY Times - Great AI awakening](https://www.nytimes.com/2016/12/14/magazine/the-great-ai-awakening.html#permid=20846801)
 
+* [CBINSIGHTS - AI Redefine Industries](https://www.cbinsights.com/research/artificial-intelligence-top-startups/)
+
 # Machine Learning
 ## Machine Learning Major Types
 ### Supervised learning
@@ -41,8 +43,8 @@ if a == b:
 1. Automates
 1. Personalizes
   Sample: recomendation
-  * Behaviours 
-  * Tags
+   * Behaviours 
+   * Tags
 1. Optimises
 1. Detects anomalies
 1. Forecasts
