@@ -41,8 +41,8 @@ if a == b:
 1. Automates
 1. Personalizes
   Sample: recomendation
-  1. Behaviours 
-  1. Tags
+  * Behaviours 
+  * Tags
 1. Optimises
 1. Detects anomalies
 1. Forecasts
