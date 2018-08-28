@@ -16,6 +16,8 @@
 
 * [Harvard - How AI redefine management](https://hbr.org/2016/11/how-artificial-intelligence-will-redefine-management)
 
+* [Goldman Sachs - China AI Report](http://disq.us/url?url=http%3A%2F%2Fwww.qthmedia.com%2Fcommon%2Fresources%3Fid%3D188834a0892b4648b6ececbf8ca74df6%3ABIKnqi29WH9kS7R6szl4mhtUWg4&cuid=5293991)
+
 # Machine Learning
 ## Machine Learning Major Types
 ### Supervised learning
