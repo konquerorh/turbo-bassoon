@@ -1,0 +1,31 @@
+
+
+
+ CLAS MY: Master Report 05 September 2018 unable to generate due to invalid date conversion
+     for one record. Impact: 1) This affected the workflow report  used by Card Ops; 2) Consumer Credit
+     department unable to assess the quota for deviation approval for the day;
+     3) R&P customer call back process will be affected as no details on
+     the customers requires verification. Fix was deployed at 8pm. 
+
+ Network emergency: Shutdown equipment tc1 LEVEL 6 and OCBC Centre 40 Floor as the
+     places are under renovation. With following justification: 1) This
+request is to shutdown switches that are not in use at TC1 Level 6 and OCBC
+Centre Level 40. 2) This is precautionary measure to protect the devices from damage as the sites are
+under renovation. 3) No impact to users and services. 
+
+
+
+
+ AS400
+     emergency: To fixed the AS400 bug which caused the incident on 1 Sep,
+     AS400 team called emergency to apply fix on DR AS400. It will be done
+     between 7am to 7pm, 7 Sep. During the period, VTL will not be usable. 
+
+ Network
+     emergency 2: To support above AS400 activity, network port will be open to
+     allow sharing of screen with IBM via WebEx. The rule has been reviewed by
+     TISO, and TCC has asked to have at least 2 staff in place during the
+     screen sharing with IBM and no control permit to IBM. 
+
+
+
