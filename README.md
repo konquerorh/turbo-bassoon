@@ -18,6 +18,8 @@
 
 * [Goldman Sachs - China AI Report](http://disq.us/url?url=http%3A%2F%2Fwww.qthmedia.com%2Fcommon%2Fresources%3Fid%3D188834a0892b4648b6ececbf8ca74df6%3ABIKnqi29WH9kS7R6szl4mhtUWg4&cuid=5293991)
 * [CBInsights:The AI In Fintech Market Map – 100+ Companies Using AI Algorithms To Improve The Fin Services Industry:](https://www.cbinsights.com/research/ai-fintech-startup-market-map/)
+* [Oreilly: The current state of machine intelligence 3.0:](https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-3-0)
+
 # Machine Learning
 ## Machine Learning Major Types
 ### Supervised learning
