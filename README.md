@@ -53,3 +53,9 @@ if a == b:
 1. Detects anomalies
 1. Forecasts
 1. Innovates
+
+## GDPR Principles
+1. Explicit consent
+1. Right to be forgotten
+1. Data portability
+1. Algorithm tranpency
