@@ -96,5 +96,5 @@ To fill out graph databases
 7. Similarity
 8. Fact extraction
 ### NLP Ariticals
-* [Natural Language Process vs Natrual Language Generation] (https://narrativescience.com/Resources/Resource-Library/Article-Detail-Page/natural-language-processing-and-natural-language-generation-whats-the-difference)
+* [Natural Language Process vs Natrual Language Generation](https://narrativescience.com/Resources/Resource-Library/Article-Detail-Page/natural-language-processing-and-natural-language-generation-whats-the-difference)
 
