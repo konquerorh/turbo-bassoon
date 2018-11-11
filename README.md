@@ -29,7 +29,7 @@
 * when to use it
    * You know how to classify the input data and the type of behavior you want to predict, but you need the algorithm to caculate it for you on new data. 
 * how it works
-  1. A human labels the input data and fefine the output variable. 
+#  1. A human labels the input data and fefine the output variable. 
   1. The algorithm is  trained on the data to find the connection between input and output.
 2  1. Once training is complete - typically when the algorithm is sufficiently accurate - the algorigthm is applied on new data. 
 #* Algorigthms / business cases
@@ -38,7 +38,7 @@
 
 1. Linear/quadratic discriminant analysys (Upgrade a logistic regression to deal with non-linear problems, where the change to the input variables do not result in propotional change to the outpu variables.  
   1. Decision tree
-#  1. Naive Bayes
+1. Naive Bayes
 ### Unsupervised learning
 ```Python
 #if a == b: 
@@ -98,3 +98,8 @@ To fill out graph databases
 ### NLP Ariticals
 * [Natural Language Process vs Natrual Language Generation](https://narrativescience.com/Resources/Resource-Library/Article-Detail-Page/natural-language-processing-and-natural-language-generation-whats-the-difference)
 
+## Risk
+* Fairness
+* Accountability
+* Ethics
+* Tranparency
